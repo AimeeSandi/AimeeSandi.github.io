@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=Megrim&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Neucha&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Poiret+One&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Dosis&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
+
+/* .wrapper { 
+    display: flex;
+} */
+
+body {
+    background-color: azure;
+}
+
+h1 {
+    color:  rgb(150, 62, 190);;
+    text-align: center;
+    font-size: 60px;
+    font-family: 'Megrim', cursive;
+    text-shadow: 2px 2px lightskyblue;
+}
+
+#tabs {
+    justify-content: center;
+    text-align: center;
+    display: flex;
+    flex-direction: row;
+    background-color: lightskyblue;
+    padding: 20px;
+
+}
+
+.tab{
+    margin: 0px 20px 0px;
+    flex-direction: row;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(150, 62, 190);
+    font-family: 'Neucha', cursive;
+    font-size: 30px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Neucha', cursive;
+    color: rgb(150, 62, 190);;
+    font-size: 40px;
+}
+
+p {
+    font-family: 'Comfortaa', cursive;
+    font-size: 17px;
+}
+
